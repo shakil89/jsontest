@@ -1,0 +1,21 @@
+{"studentinfo":[
+
+{
+ "name":"shakil",
+  "age":"22",
+   "description":"CEO"
+},
+
+{
+ "name":"maisha",
+  "age":"",
+   "description":"Manager"
+},
+
+{
+ "name":"manha",
+  "age":"",
+   "description":"Director"
+}
+]
+}
